@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 155ba4808bea2a9438d06be3427a99cd
+timeCreated: 1497071441
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/Prefabs/Canvas Scenes Menu.prefab
+  uploadId: 476366

@@ -1,0 +1,54 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl Material__2
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 2
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material__3
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 2
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _0___Default
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 2
+map_Kd TestTube_Mask_3ml.png
+map_bump TestTube_Mask_3ml.png
+bump TestTube_Mask_3ml.png
+map_opacity TestTube_Mask_3ml.png
+map_d TestTube_Mask_3ml.png
+refl TestTube_Mask_3ml.png
+map_kS TestTube_Mask_3ml.png
+map_kA TestTube_Mask_3ml.png
+map_Ns TestTube_Mask_3ml.png

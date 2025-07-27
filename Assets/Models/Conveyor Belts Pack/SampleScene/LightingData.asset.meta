@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f80e56a873419442a1f74540bae5074
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202208
+  packageName: Modular Conveyor Pack
+  packageVersion: 1.0
+  assetPath: Assets/Conveyor Belts Pack/SampleScene/LightingData.asset
+  uploadId: 450704

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc693e96604f6244d9094dcb6b180a25
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298275
+  packageName: Industrial Control Buttons
+  packageVersion: 1.0
+  assetPath: Assets/Industrial Control Buttons/Prefabs/Button_2_panel.prefab
+  uploadId: 700425

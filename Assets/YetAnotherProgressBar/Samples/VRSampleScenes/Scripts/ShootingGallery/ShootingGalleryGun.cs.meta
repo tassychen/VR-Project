@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7d1befbbde9e80549bbf00305f3c64c0
+timeCreated: 1433017406
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/VRSampleScenes/Scripts/ShootingGallery/ShootingGalleryGun.cs
+  uploadId: 476366

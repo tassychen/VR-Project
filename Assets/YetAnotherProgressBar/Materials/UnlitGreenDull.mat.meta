@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a22dbf4b70966424489fb8dc1ff622e1
+timeCreated: 1507487478
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Materials/UnlitGreenDull.mat
+  uploadId: 476366

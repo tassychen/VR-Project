@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3f58030d62645b145b286f78c66052ce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 202208
+  packageName: Modular Conveyor Pack
+  packageVersion: 1.0
+  assetPath: Assets/Conveyor Belts Pack/TextureAnim.cs
+  uploadId: 450704

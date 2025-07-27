@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9a29ff07f83705e4fa3136a327476c72
+timeCreated: 1497554607
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/Scripts/ShootingTarget.cs
+  uploadId: 476366

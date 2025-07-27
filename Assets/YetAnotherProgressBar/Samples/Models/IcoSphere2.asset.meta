@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e7572bc4538681948ae367aa76a7e968
+labels:
+- WirePrimitives
+timeCreated: 1500406973
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/Models/IcoSphere2.asset
+  uploadId: 476366

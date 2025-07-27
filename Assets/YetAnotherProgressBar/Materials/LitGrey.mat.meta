@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e802efc11f9f93040a242062c851b0ea
+timeCreated: 1489213437
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Materials/LitGrey.mat
+  uploadId: 476366

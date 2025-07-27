@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d40fb1c8a87786440bf7a546560e5a13
+timeCreated: 1497288189
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Materials/LitMagenta.mat
+  uploadId: 476366

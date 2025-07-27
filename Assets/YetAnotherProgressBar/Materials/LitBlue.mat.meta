@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2dec3df73ef0f614e8f92ac2a0c94d5d
+timeCreated: 1497546329
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Materials/LitBlue.mat
+  uploadId: 476366

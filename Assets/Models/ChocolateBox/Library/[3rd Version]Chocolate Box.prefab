@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2636488648902154845
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5740153980848501489}
+  m_Layer: 0
+  m_Name: StickerSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5740153980848501489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2636488648902154845}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -8.29, y: 4.37, z: 1.24}
+  m_LocalScale: {x: 33.333336, y: 33.33333, z: 33.33333}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 91367741846658022}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8581966582648877331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 196519216199487016}
+  m_Layer: 0
+  m_Name: SpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &196519216199487016
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8581966582648877331}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -8.35, y: 4.55, z: -1.45}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 91367741846658022}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1801719731580527747
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1373514712018855391, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_Name
+      value: '[Final Version]Chocolate Box'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.115746
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.187
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 5.7769995
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5996772242304324754, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: spawnPoint
+      value: 
+      objectReference: {fileID: 196519216199487016}
+    - target: {fileID: 5996772242304324754, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      propertyPath: chocolateBarPrefab
+      value: 
+      objectReference: {fileID: 2103336705263309664, guid: 63aaf799e551faa43aae14957feb09e3, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 196519216199487016}
+    - targetCorrespondingSourceObject: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5740153980848501489}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+--- !u!4 &91367741846658022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1748633567029133157, guid: f0ce342a9bdf83d4787419f0c508b630, type: 3}
+  m_PrefabInstance: {fileID: 1801719731580527747}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 81376556914a00148a41a45b4513ddc2
+labels:
+- Progressbar
+timeCreated: 1497278268
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/Scenes/DemoYEPBGunIndicator.unity
+  uploadId: 476366

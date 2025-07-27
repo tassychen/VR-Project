@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 84ecb2749650e0742a0fbbff8c01143c
+timeCreated: 1512239553
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/Prefabs/Canvas Help.prefab
+  uploadId: 476366

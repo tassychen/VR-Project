@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff0bd86ad145b714a8741646e4db2078
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 298275
+  packageName: Industrial Control Buttons
+  packageVersion: 1.0
+  assetPath: Assets/Industrial Control Buttons/Materials/Button.mat
+  uploadId: 700425

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f3c4268716224bd4b85eebab659e83d8
+timeCreated: 1497642617
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 103677
+  packageName: VR Progress Bar
+  packageVersion: 1.0
+  assetPath: Assets/YetAnotherProgressBar/Samples/Scripts/TargetInstancer.cs
+  uploadId: 476366
