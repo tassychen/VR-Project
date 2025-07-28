@@ -20,7 +20,7 @@ Users interact with robotic arms, assembly lines, tooling systems(end-effectors,
 
 ---
 
-## 🛠️ Technologies & Setup
+## Technologies & Setup
 
 | Feature              | Details                                      |
 |----------------------|----------------------------------------------|
@@ -40,10 +40,37 @@ Assets/
  ├── Scripts/            # C# scripts for interactions & scene logic
  ├── XR/                 # XR Rig, interactions
  ├── Audio/              # Instructional sound cues
- └── Scenes/             # Main VR experience scene: FinalApp
+ └── Scenes/             # Main VR experience scene: **FinalApp**
 
 Packages/
  └── manifest.json       # Unity dependencies (XR, Input System, etc.)
 
 ProjectSettings/
  └── Various configs      # Input mapping, layers, tags
+```
+---
+
+## Distribution & Intellectual Property Notice
+
+This immersive VR experience was developed in collaboration with the [ARM Institute](https://arminstitute.org/), with the goal of educating manufacturing stakeholders on human-robot collaboration. Portions of this project, including specific assets and scenarios, are protected under shared intellectual property agreements. Redistribution or commercial use of the source code or media assets without explicit permission is **strictly prohibited**.
+
+Only the public-facing demo video can be shared externally.
+
+---
+
+## Deployment Warning
+
+This repository includes **project assets, packages, and scripts**, but omits:
+- Certain license-bound textures and 3D models
+- Finalized binary builds
+
+Due to legal/IP constraints, **this project is not intended to be fully deployable by external parties**. It serves as a **portfolio artifact** and source reference only.
+
+---
+
+## Author
+
+**Siyu (Tassy) Chen**  
+Immersive Systems Designer & XR Developer  
+[chentassy@gmail.com](mailto:chentassy@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/siyu-tassy-chen)  
