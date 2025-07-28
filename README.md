@@ -40,7 +40,7 @@ Assets/
  ├── Scripts/            # C# scripts for interactions & scene logic
  ├── XR/                 # XR Rig, interactions
  ├── Audio/              # Instructional sound cues
- └── Scenes/             # Main VR experience scene(s)
+ └── Scenes/             # Main VR experience scene: FinalApp
 
 Packages/
  └── manifest.json       # Unity dependencies (XR, Input System, etc.)
